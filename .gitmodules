@@ -1,0 +1,6 @@
+[submodule "sdp-1"]
+	path = sdp-1
+	url = git@github.com:r-ueoka/sdp-1.git
+[submodule "sdp-2"]
+	path = sdp-2
+	url = git@github.com:r-ueoka/sdp-2.git
